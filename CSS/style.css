@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/bg2.jpg);
+    background-size: cover;    
+}
+
+.box{
+    width: 450px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: auto;
+    color:white;
+    font-family: 'century Gothic', sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h5{
+    font-size: 20px; letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.Contact-Me{
+    
+    position: absolute;
+    right: 0;
+    top: 10px:
+    color: white;
+    padding: 0 60px;
+    display: none;
+}
+
+.inputtext{
+
+    width:55%;
+    height:65px;
+    border:3px solid black;
+    color: black;
+    background-color: rgba(0,0,0,0.7)
+}
